@@ -4,7 +4,7 @@ In this assignment, our task was to build a back end for an e-commerce site by m
 
 With the Express APIs, the user is able to view category, product, and tag information through their respective routes.
 
-JavaScript | Node.js | MySQL
+JavaScript | Node.js | Sequelize | MySQL
 
 # Link
 
